@@ -32,5 +32,5 @@ project "yaml-cpp"
 
 	filter "configurations:Shipping"
 		runtime "Release"
-		optimize "On"
+		optimize "Full"
 		symbols "Off"
